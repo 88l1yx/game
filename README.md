@@ -1,0 +1,4 @@
+在鸭科夫文件中找到Duckov_Data
+打开
+创建Mods文件夹
+将mod放到mods文件夹中即可使用
